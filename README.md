@@ -1,6 +1,13 @@
-# Module-1-Challenge-CH
-First Challenge-First GitHub Repository
+
+
 # 01 HTML, CSS, and Git: Code Refactor
+User story stated the types of changes and look the customer was looking for. Acceptance criteria guided and outlines the process to help achieve the customers request and requirements. 
+
+## List of Changes 
+
+Updated the HTML file with any missing tags and class. 
+Consolidated the CSS file ie. classes, ids in order to clean the code. 
+
 
 
 ## User Story
